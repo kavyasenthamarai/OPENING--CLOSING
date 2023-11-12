@@ -28,8 +28,8 @@ Display all the output images
  
 ## Program:
 ```
-Developed By: Jeeva Abishake
-Register NO: 212221240018
+Developed By: Kavya K
+Register NO: 212222230065
 ```
 ``` Python
 # Import the necessary packages
@@ -75,15 +75,13 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-![CRE](https://github.com/JEEVAABI/OPENING--CLOSING/assets/93427098/fcfce43b-4f5a-4b80-be10-f856cc44c846)
-
+![image](https://github.com/kavyasenthamarai/OPENING--CLOSING/assets/118668727/3276759b-21cb-4964-8248-5bfd4a4f47d5)
 
 ### Display the result of the Opening
-![OPEN](https://github.com/JEEVAABI/OPENING--CLOSING/assets/93427098/d2a3d189-a4bd-4dec-a2e3-8036a43608f4)
+![image](https://github.com/kavyasenthamarai/OPENING--CLOSING/assets/118668727/f1d0071e-ad4f-4eb2-a9e8-56f4eb8b4441)
 
 ### Display the result of Closing
-![CLOSING](https://github.com/JEEVAABI/OPENING--CLOSING/assets/93427098/8abe1624-d27f-475f-a5bc-9d558c3629c0)
-
+![image](https://github.com/kavyasenthamarai/OPENING--CLOSING/assets/118668727/5ebc7238-97a3-461e-af4f-5feb66fe2bfc)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
